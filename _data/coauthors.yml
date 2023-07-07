@@ -32,3 +32,11 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Moyer":
+  - firstname: ["Daniel"]
+    url: https://engineering.vanderbilt.edu/bio/daniel-moyer
+
+"Martin":
+  - firstname: ["J. Ryan"]
+    url: https://www.vumc.org/ortho/person/ryan-martin-md
