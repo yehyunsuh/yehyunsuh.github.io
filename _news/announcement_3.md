@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-02-17 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am converting to Ph.D. starting this Fall and will be continuing my research with [Dr.Moyer](https://engineering.vanderbilt.edu/bio/daniel-moyer)!

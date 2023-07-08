@@ -6,13 +6,13 @@ subtitle:
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: portrait.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Featheringill Hall 360</p>
-    <p>400 24th Ave S</p>
-    <p>Nashville, TN, US</p>
+  # address: >
+  #   <p>Featheringill Hall 360</p>
+  #   <p>400 24th Ave S</p>
+  #   <p>Nashville, TN, US</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -31,3 +31,4 @@ My name is Yehyun, and I am a Ph.D. student in [VISE](https://www.vanderbilt.edu
 I am currently doing my research in [VINE Laboratory](https://dcmoyer.github.io/) under the supervision of [Professor Daniel Moyer](https://engineering.vanderbilt.edu/bio/daniel-moyer). Before my graduate studies, I finished my undergraduate program in Information and Communication Engineering at Dongguk University under the advise of [Professor Woongsup Kim](https://ice.dongguk.edu/professor/list?professor_haggwa_type=PROFH_042).
 
 Email: {firstname}.{lastname}@vanderbilt.edu   
+Office: Featheringill Jacobs Hall 360

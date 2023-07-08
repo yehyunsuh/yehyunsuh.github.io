@@ -1,12 +1,9 @@
 github_users:
   - yehyunsuh
-  # - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - yehyunsuh/Total-Joint-Replacement
+  - yehyunsuh/DICOM
+  - yehyunsuh/TEM-Image-Segmentation
+  - yehyunsuh/Total-Knee-Replacement-Post-Surgical-Assessment
+  - yehyunsuh/2022-BoostcampAITech
