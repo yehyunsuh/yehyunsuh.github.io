@@ -29,15 +29,12 @@
   contents:
     - title: <a href="https://github.com/yehyunsuh/Total-Joint-Replacement">Hip Replacement Post-surgical Assessment</a>
       year: 2023.06-now
-      # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
     - title: <a href="https://github.com/yehyunsuh/TEM-Image-Segmentation">TEM Image Segmentation</a>
       year: 2023.04-now
-      # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
     - title: <a href="https://github.com/yehyunsuh/Total-Knee-Replacement-Post-Surgical-Assessment">Total Knee Replacement Post-surgical Assessment</a>
       year: 2022.11-2023.05
-      # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
     
     - title: Deep Learning-based Determination of Risser Stage Trend using Abdominal Radiographs in Korean Children
       year: 2022.05-2022.08
