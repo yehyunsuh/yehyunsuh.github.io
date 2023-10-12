@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first short paper has been accepted to [2023 MIDL](https://2023.midl.io) and will be doing a poster this July!
+My short paper has been accepted to [2023 MIDL](https://2023.midl.io) and will be doing a poster this July!
