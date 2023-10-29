@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-04-28 07:59:00-0400
+date: 2023-10-28 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-My short paper has been accepted to [MIDL](https://2023.midl.io) and will be doing a poster this July!
+My paper has been accepted to [Neurips](https://2023.midl.io) workshop ([MedNeurips](https://sites.google.com/view/med-neurips2023))!
