@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Yehyun Suh
-    - name: Date of Birth
-      value: 19th April 1997
+    # - name: Date of Birth
+    #   value: 19th April 1997
     - name: Languages
       value: English, Korean
 

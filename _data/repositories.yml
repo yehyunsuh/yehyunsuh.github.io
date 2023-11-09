@@ -2,8 +2,8 @@ github_users:
   - yehyunsuh
 
 github_repos:
-  - yehyunsuh/Total-Joint-Replacement
-  - yehyunsuh/DICOM
-  - yehyunsuh/TEM-Image-Segmentation
-  - yehyunsuh/Total-Knee-Replacement-Post-Surgical-Assessment
-  - yehyunsuh/2022-BoostcampAITech
+  - https://github.com/vine-lab-vu/Label-Augmentation
+  # - yehyunsuh/DICOM
+  # - yehyunsuh/TEM-Image-Segmentation
+  # - yehyunsuh/Total-Knee-Replacement-Post-Surgical-Assessment
+  # - yehyunsuh/2022-BoostcampAITech
