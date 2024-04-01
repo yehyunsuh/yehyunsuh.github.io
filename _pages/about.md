@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 My name is Yehyun, and I am a Ph.D. student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/) and [VISE](https://www.vanderbilt.edu/vise/)(Vanderbilt Institute for Surgery and Engineering).
 
-I am currently doing my research in [VINE Laboratory](https://vine-lab.notion.site/) under the supervision of [Professor Daniel Moyer](https://engineering.vanderbilt.edu/bio/daniel-moyer) and am interested in applying machine learning algorithms to medical images.. Before my graduate studies, I finished my undergraduate program in Information and Communication Engineering at Dongguk University under the advise of [Professor Woongsup Kim](https://ice.dongguk.edu/professor/list?professor_haggwa_type=PROFH_042).
+I am currently doing my research in [VINE(Visual INformatics and Engineering) Laboratory](https://vine-lab.notion.site/) under the supervision of [Professor Daniel Moyer](https://engineering.vanderbilt.edu/bio/daniel-moyer) and am interested in applying machine learning algorithms to medical images. Before my graduate studies, I finished my undergraduate program in Information and Communication Engineering at Dongguk University under the advise of [Professor Woongsup Kim](https://ice.dongguk.edu/professor/list?professor_haggwa_type=PROFH_042).
 
 Email: {firstname}.{lastname}@vanderbilt.edu   
 Office: Featheringill Jacobs Hall 360
