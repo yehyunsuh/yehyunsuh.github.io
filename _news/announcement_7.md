@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be doing an internship at [Atec Spine](https://atecspine.com/) with [Dr.Kang](https://www.linkedin.com/in/kongbin-kang-177b0ab/) this Summer :technologist:.
+I will be doing an internship at [Atec Spine](https://atecspine.com/) working with [Dr.Kang](https://www.linkedin.com/in/kongbin-kang-177b0ab/) this Summer :technologist:.

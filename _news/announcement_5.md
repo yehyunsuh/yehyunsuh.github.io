@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper has been accepted to [Neurips](https://2023.midl.io) workshop on [Medical Imaging](https://sites.google.com/view/med-neurips2023)!
+My paper has been accepted to [NeurIPS workshop on Medical Imaging](https://sites.google.com/view/med-neurips2023)!
