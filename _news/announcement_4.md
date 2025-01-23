@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper has been accepted to [MIDL](https://2023.midl.io) and will be doing a poster this July!
+Our [paper](https://openreview.net/pdf?id=bVC9bi_-t7Y) has been accepted to [MIDL](https://2023.midl.io) and will be doing a poster this July!

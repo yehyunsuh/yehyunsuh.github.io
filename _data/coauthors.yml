@@ -1,9 +1,9 @@
 "Moyer":
-  - firstname: ["Daniel", "Daniel. C."]
-    url: https://engineering.vanderbilt.edu/bio/daniel-moyer
+  - firstname: ["Daniel", "Daniel. C.", "Daniel C"]
+    url: https://scholar.google.com/citations?user=sKmoxSMAAAAJ&hl=en 
 
 "Martin":
-  - firstname: ["J. Ryan"]
+  - firstname: ["J. Ryan", "J Ryan"]
     url: https://www.vumc.org/ortho/person/ryan-martin-md
 
 "Chan":
@@ -11,5 +11,9 @@
     url: https://scholar.google.com/citations?user=iecV098AAAAJ&hl=en
 
 "Mika":
-  - firstname: ["Aleksander"]
+  - firstname: ["Aleksander", "Aleksander P"]
     url: https://www.researchgate.net/scientific-contributions/Aleksander-P-Mika-2256421092
+
+"Kim":
+  - firstname: ["Yisak"]
+    url: https://scholar.google.com/citations?user=Zs9ba6oAAAAJ&hl=en 

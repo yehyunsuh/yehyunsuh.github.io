@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: Ph.D. in Computer Science
-      institution: Vanderbilt University, Nashville, TN, US
-      year: 2028
+      institution: Vanderbilt University, Nashville, TN, USA
+      year: 2027
       description:
         - Advised by Professor Daniel Moyer
 
@@ -24,20 +24,20 @@
         - Advised by Professor Woongsup Kim
         - Summa Cum Laude
         
-- title: Research Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/yehyunsuh/Total-Joint-Replacement">Hip Replacement Post-surgical Assessment</a>
-      year: 2023.06-now
+# - title: Research Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/yehyunsuh/Total-Joint-Replacement">Hip Replacement Post-surgical Assessment</a>
+#       year: 2023.06-now
 
-    - title: <a href="https://github.com/yehyunsuh/TEM-Image-Segmentation">TEM Image Segmentation</a>
-      year: 2023.04-now
+#     - title: <a href="https://github.com/yehyunsuh/TEM-Image-Segmentation">TEM Image Segmentation</a>
+#       year: 2023.04-now
 
-    - title: <a href="https://github.com/yehyunsuh/Total-Knee-Replacement-Post-Surgical-Assessment">Total Knee Replacement Post-surgical Assessment</a>
-      year: 2022.11-2023.05
+#     - title: <a href="https://github.com/yehyunsuh/Total-Knee-Replacement-Post-Surgical-Assessment">Total Knee Replacement Post-surgical Assessment</a>
+#       year: 2022.11-2023.05
     
-    - title: Deep Learning-based Determination of Risser Stage Trend using Abdominal Radiographs in Korean Children
-      year: 2022.05-2022.08
+#     - title: Deep Learning-based Determination of Risser Stage Trend using Abdominal Radiographs in Korean Children
+#       year: 2022.05-2022.08
   
 # - title: Experience
 #   type: time_table
