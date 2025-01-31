@@ -7,7 +7,7 @@
     url: https://www.vumc.org/ortho/person/ryan-martin-md
 
 "Chan":
-  - firstname: ["Peter"]
+  - firstname: ["Peter", "Peter YW."]
     url: https://scholar.google.com/citations?user=iecV098AAAAJ&hl=en
 
 "Mika":
@@ -17,3 +17,4 @@
 "Kim":
   - firstname: ["Yisak"]
     url: https://scholar.google.com/citations?user=Zs9ba6oAAAAJ&hl=en 
+    
