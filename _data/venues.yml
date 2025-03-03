@@ -6,4 +6,16 @@
 #   url: https://journals.aps.org/
 
 "MIDL":
-  # url: https://www.midl.io/
+  url: https://www.midl.io/
+
+"MedNeurIPS":
+  url: https://sites.google.com/view/med-neurips2023/home
+
+"Ped Rad":
+  url: https://link.springer.com/journal/247
+
+"CIBM":
+  url: https://www.sciencedirect.com/journal/computers-in-biology-and-medicine
+
+"JoA":
+  url: https://www.sciencedirect.com/journal/the-journal-of-arthroplasty
