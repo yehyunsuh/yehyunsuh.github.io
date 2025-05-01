@@ -13,10 +13,6 @@
 "Mika":
   - firstname: ["Aleksander", "Aleksander P"]
     url: https://www.researchgate.net/scientific-contributions/Aleksander-P-Mika-2256421092
-
-"Kim":
-  - firstname: ["Yisak"]
-    url: https://scholar.google.com/citations?user=Zs9ba6oAAAAJ&hl=en 
     
 "Baker":
   - firstname: ["Courtney E."]
@@ -30,3 +26,52 @@
   - firstname: ["Mahd"]
     url: https://www.linkedin.com/in/mahd-mohsin-a72038227/
     
+"McMaster":
+  - firstname: ["Elyssa", "Elyssa M."]
+    url: https://scholar.google.com/citations?user=clsolRwAAAAJ&hl=en
+
+"Newlin":
+  - firstname: ["Nancy"]
+    url: https://scholar.google.com/citations?user=j_JQvacAAAAJ&hl=en&oi=ao
+
+"Schwartz":
+  - firstname: ["Trent"]
+    url: https://scholar.google.com/citations?user=j084a08AAAAJ&hl=en&oi=ao
+
+"Saunders":
+  - firstname: ["Adam", "Adam M."]
+    url: https://scholar.google.com/citations?user=P15oxm0AAAAJ&hl=en
+
+"Rudravaram":
+  - firstname: ["Gaurav"]
+    url: https://scholar.google.com/citations?user=Y1vbrAkAAAAJ&hl=en&oi=ao
+
+"Yoon":
+  - firstname: ["Jongyeon"]
+    url: https://scholar.google.com/citations?user=X25DmnYAAAAJ&hl=en&oi=ao
+
+"Kim":
+  - firstname: ["Michael", "Michael E.", "Michael Eugene"]
+    url: https://scholar.google.com/citations?user=M4qRF1QAAAAJ&hl=en&oi=sra
+  - firstname: ["Yisak"]
+    url: https://scholar.google.com/citations?user=Zs9ba6oAAAAJ&hl=en 
+
+"Ramadass":
+  - firstname: ["Karthik"]
+    url: https://scholar.google.com/citations?user=Zs-XHRMAAAAJ&hl=en&oi=ao
+
+"Liu":
+  - firstname: ["Yihao"]
+    url: https://scholar.google.com/citations?user=DlOPRbAAAAAJ&hl=en&oi=ao
+
+"Zuo":
+  - firstname: ["Lianrui"]
+    url: https://scholar.google.com/citations?user=GQGYangAAAAJ&hl=en
+
+Schilling:
+  - firstname: ["Kurt", "Kurt G."]
+    url: https://scholar.google.com/citations?user=mYSU6lUAAAAJ&hl=en
+
+Landman:
+  - firstname: ["Bennett", "Bennett A.", "Bennett Allan"]
+    url: https://scholar.google.com/citations?user=tmTcH0QAAAAJ&hl=en&oi=ao
