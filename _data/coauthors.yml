@@ -1,5 +1,5 @@
 "Moyer":
-  - firstname: ["Daniel", "Daniel. C.", "Daniel C"]
+  - firstname: ["Daniel", "Daniel C.", "Daniel C"]
     url: https://scholar.google.com/citations?user=sKmoxSMAAAAJ&hl=en 
 
 "Martin":
@@ -11,7 +11,7 @@
     url: https://scholar.google.com/citations?user=iecV098AAAAJ&hl=en
 
 "Mika":
-  - firstname: ["Aleksander", "Aleksander P"]
+  - firstname: ["Aleksander", "Aleksander P", "Aleksander P."]
     url: https://www.researchgate.net/scientific-contributions/Aleksander-P-Mika-2256421092
     
 "Baker":
@@ -19,7 +19,7 @@
     url: https://www.researchgate.net/scientific-contributions/Courtney-E-Baker-2186208975
 
 "Chandrashekar":
-  - firstname: ["Anoop"]
+  - firstname: ["Anoop", "Anoop S."]
     url: https://scholar.google.com/citations?user=o0HwkloAAAAJ&hl=en&oi=ao
 
 "Mohsin":
@@ -75,3 +75,7 @@ Schilling:
 Landman:
   - firstname: ["Bennett", "Bennett A.", "Bennett Allan"]
     url: https://scholar.google.com/citations?user=tmTcH0QAAAAJ&hl=en&oi=ao
+
+Faschingbauer:
+  - firstname: ["Martin"]
+    url: https://www.researchgate.net/profile/Martin-Faschingbauer
