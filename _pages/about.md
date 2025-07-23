@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Yehyun, and I am a Ph.D. student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/) and an affiliated student at [VISE](https://www.vanderbilt.edu/vise/)(Vanderbilt Institute for Surgery and Engineering).
+My name is Yehyun, and I am a Ph.D. student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/) and an affiliated student at [VISE](https://www.vanderbilt.edu/vise/)(Vanderbilt Institute for Surgery and Engineering) and [VALIANT](https://www.vanderbilt.edu/valiant/)(Vanderbilt Lab for Immersive AI Translation).
 
 I am currently doing my research in [VINE(Vision Information Neuroimaging Engineering) Laboratory](https://vine-lab.notion.site/) under the supervision of [Dr. Daniel Moyer](https://scholar.google.com/citations?user=sKmoxSMAAAAJ&hl). I am also collaborating closely with [Dr. J. Ryan Martin](https://www.researchgate.net/profile/J-Martin-10) in Department of Orthopaedic Surgery at Vanderbilt University Medical Center. My main focus in my research is in medical image registration and application of Deep Learning in medical images. Before my graduate studies, I finished my undergraduate in Information and Communication Engineering at Dongguk University under the advise of [Dr. Woongsup Kim](https://ice.dongguk.edu/professor/list?professor_haggwa_type=PROFH_042).
 
