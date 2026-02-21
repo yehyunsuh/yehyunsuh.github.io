@@ -79,3 +79,7 @@ Landman:
 Faschingbauer:
   - firstname: ["Martin"]
     url: https://www.researchgate.net/profile/Martin-Faschingbauer
+
+Schott:
+  - firstname: ["Brayden", "Brayden"]
+    url: https://scholar.google.com/citations?user=OPs4EbEAAAAJ&hl=en
