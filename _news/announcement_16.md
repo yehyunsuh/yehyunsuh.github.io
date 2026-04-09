@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [paper](https://openreview.net/pdf?id=t40yShfMhk) has been accepted to [Medical Imaging with Deep Learning
-](https://2026.midl.io/)
+Our [paper](https://openreview.net/pdf?id=t40yShfMhk) has been accepted to [Medical Imaging with Deep Learning](https://2026.midl.io/)
